@@ -41,7 +41,7 @@ Para rodar esse projeto, você vai precisar das seguintes bibliotecas para Pytho
 
 ```
   {
-  "Multa_Autuacao_Pendente": "string",
+  "Multa_Autuacao_Pendente": "bool",
   "dados_veiculos": "string",
   "dados_multas_aberto": "string",
   "dados_autuacoes_aberto": "string",
